@@ -28,6 +28,7 @@ class ArticleTableViewController: UITableViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
+    
 
     // MARK: - Table view data source
 
