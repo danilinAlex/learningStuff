@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  TableCellAnimation
+//  Calculator
 //
-//  Created by Simon Ng on 3/10/2016.
-//  Copyright © 2016 AppCoda. All rights reserved.
+//  Created by Alexander Danilin on 01/11/2017.
+//  Copyright © 2017 Alexander Danilin. All rights reserved.
 //
 
 import UIKit
